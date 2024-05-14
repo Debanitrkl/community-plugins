@@ -1,5 +1,11 @@
 # @backstage-community/plugin-vault-backend
 
+## 0.4.12
+
+### Patch Changes
+
+- d606bde: Updated dependency `helmet` to `^7.0.0`.
+
 ## 0.4.11
 
 ### Patch Changes
